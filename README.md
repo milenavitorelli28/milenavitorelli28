@@ -2,7 +2,7 @@
 
 **Milena Vitorelli**😜
 
-Estou estudando na {Alura}(https://www.alura.com.br/)
+Estou estudando na [Alura](https://www.alura.com.br/)
 
 -GOSTO DE OUVIR MUSICA🎶
 
@@ -13,6 +13,9 @@ Estou estudando na {Alura}(https://www.alura.com.br/)
 -GOSTO DE FILME DE TERROR E AÇÃO👻
 
 **VOCÊ PODE ENTRAR EM CONTATO COMIGO**
+
 milena.vitorelli.silva@escola.pr.gov.br
+
 ![](https://media.tenor.com/ZVvam7Lq4oIAAAAM/mc-hariel-hariel.gif)
+
 ![](https://media.tenor.com/WtwSCtQFfRkAAAAM/mc-hariel-hariel.gif)
