@@ -14,5 +14,5 @@ Estou estudando na {Alura}(https://www.alura.com.br/)
 
 **VOCÊ PODE ENTRAR EM CONTATO COMIGO**
 milena.vitorelli.silva@escola.pr.gov.br
-
-https://tenor.com/pt-BR/view/broken-heart-gif-10287813
+![](https://media.tenor.com/ZVvam7Lq4oIAAAAM/mc-hariel-hariel.gif)
+![](https://media.tenor.com/WtwSCtQFfRkAAAAM/mc-hariel-hariel.gif)
